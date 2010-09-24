@@ -1,0 +1,19 @@
+{
+  "name": "aws",
+  "description": "evil wrapper for the amazon command line tools",
+  "url": "http://github.com/teemow/node-aws",
+  "keywords": ["amazon", "aws", "ec2", "cloud"],
+  "author": "Timo Derstappen <teemow@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/teemow/node-aws.git"
+  },
+  "main": "./lib/aws",
+  "dependencies": {
+    "vows": ">= 0.5.1",
+    "vargs": ">= 0.1.0",
+  },
+  "engines": { "node": ">= 0.2.0" },
+  "version": "0.0.1"
+}
+

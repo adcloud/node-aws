@@ -1,4 +1,10 @@
 
+n.n.n / 2011-06-06 
+==================
+
+  * Merge pull request #1 from tisba/master
+  * added option to pass ENV to aws tools
+
 n.n.n / 2011-03-21 
 ==================
 

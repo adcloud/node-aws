@@ -6,7 +6,7 @@
   "author": "Timo Derstappen <teemow@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/teemow/node-aws.git"
+    "url": "https://github.com/adcloud/node-aws.git"
   },
   "main": "./lib/aws",
   "dependencies": {

@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/adcloud/node-aws.png)](http://travis-ci.org/adcloud/node-aws)
 # amazon aws wrapper
 
 Just wraps commandline calls to aws with some predefined filters for amis, instances, public and private dns data.
